@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14281364316",
+    "project_id": "maintenance-app-fd3df",
+    "storage_bucket": "maintenance-app-fd3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14281364316:android:f89612bc831574b4712799",
+        "android_client_info": {
+          "package_name": "techtonicsolutions.techtonicmobile.maintenanceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50iABaFXFe_HBVWPW9HYFt1KSGdhx5lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
